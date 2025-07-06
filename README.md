@@ -1,10 +1,9 @@
 # Epistasis in Malaria-Protective RBC Polymorphisms: A Systematic Review
 
-[![GitHub Release](https://img.shields.io/github/v/release/gpaasi/epistasis-malaria-rbc-polymorphisms)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/releases)
-[![CI Status](https://img.shields.io/github/actions/workflow/status/gpaasi/epistasis-malaria-rbc-polymorphisms/ci.yml?branch=main)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/actions/workflows/ci.yml)
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15825231.svg)](https://doi.org/10.5281/zenodo.15825231)
+[![Release](https://img.shields.io/github/v/release/gpaasi/epistasis-malaria-rbc-polymorphisms)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/releases)
+[![Build Status](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/actions/workflows/ci.yml/badge.svg)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15825231.svg)](https://doi.org/10.5281/zenodo.15825231)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE.md)
- 
 
 ---
 
