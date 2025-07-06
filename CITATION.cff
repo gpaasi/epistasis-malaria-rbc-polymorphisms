@@ -1,8 +1,26 @@
 cff-version: 1.2.0
-title: "Epistatic interactions among co-inherited malaria-protective red blood cell polymorphisms: a systematic review"
-version: "v1.0.3"
+message: "If you use this repository, please cite it as below."
+title: "Epistasis-malaria-RBC-polymorphisms: Reproducible workflow and data for the systematic review of co-inherited malaria-protective red blood cell polymorphisms"
+version: "1.0.0"
+doi: ""
 date-released: 2025-07-06
 authors:
   - family-names: Paasi
     given-names: George
-    orcid: https://orcid.org/0000-0001-2345-6789
+    affiliation: "Department of Paediatrics and Child Health, Makerere University"
+abstract: |
+  This repository contains all raw and processed data, R scripts, figures, and documentation 
+  required to reproduce the systematic review of epistatic interactions among co-inherited malaria-protective 
+  red blood cell polymorphisms. It includes data cleaning, qualitative synthesis, risk-of-bias visualisation, 
+  and PRISMA flow diagram generation pipelines, together with the cleaned extraction tables, 
+  synthesized interaction tallies, and all supplementary materials.
+license: "CC-BY-4.0"
+repository-code: "https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms"
+keywords:
+  - epistasis
+  - malaria
+  - rbc-polymorphisms
+  - systematic-review
+  - genetic-interactions
+  - reproducible-research
+  - public-health
