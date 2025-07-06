@@ -1,7 +1,6 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as shown below."
+cff-version: 1.2.0
 title: "Epistatic interactions among co-inherited malaria-protective red blood cell polymorphisms: a systematic review"
-version: v1.0.3
+version: "v1.0.3"
 date-released: 2025-07-06
 authors:
   - family-names: Paasi
