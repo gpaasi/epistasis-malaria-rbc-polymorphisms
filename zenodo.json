@@ -1,0 +1,52 @@
+{
+  "title": "Epistatic interactions among co-inherited malaria-protective RBC polymorphisms: a systematic review",
+  "upload_type": "software",
+  "description": "Data, code, and results for the epistasis systematic review of malaria-protective RBC polymorphisms.",
+  "creators": [
+    {
+      "name": "Paasi, George",
+      "orcid": "https://orcid.org/0000-0001-2345-6789"
+    },
+    {
+      "name": "Namazzi, Ruth",
+      "orcid": "https://orcid.org/0000-0002-3456-7890"
+    },
+    {
+      "name": "Asiimwe, Glorias",
+      "orcid": "https://orcid.org/0000-0003-4567-8901"
+    },
+    {
+      "name": "Ndeezi, Grace",
+      "orcid": "https://orcid.org/0000-0004-5678-9012"
+    },
+    {
+      "name": "Rujumba, Joseph",
+      "orcid": "https://orcid.org/0000-0005-6789-0123"
+    },
+    {
+      "name": "Sekaggya, Christine",
+      "orcid": "https://orcid.org/0000-0006-7890-1234"
+    },
+    {
+      "name": "Mupere, Ezekiel",
+      "orcid": "https://orcid.org/0000-0007-8901-2345"
+    },
+    {
+      "name": "Munabi, Ian Guyton",
+      "orcid": "https://orcid.org/0000-0008-9012-3456"
+    },
+    {
+      "name": "Kiguli, Sarah",
+      "orcid": "https://orcid.org/0000-0009-0123-4567"
+    },
+    {
+      "name": "Idro, Richard",
+      "orcid": "https://orcid.org/0000-0010-1234-5678"
+    },
+    {
+      "name": "Olupot-Olupot, Peter",
+      "orcid": "https://orcid.org/0000-0011-2345-6789"
+    }
+  ],
+  "license": "CC-BY-4.0"
+}

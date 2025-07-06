@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite as below."
+title: "Epistatic interactions among co-inherited malaria-protective RBC polymorphisms: a systematic review"
+version: "1.0.0"
+date-released: 2025-07-10
+authors:
+  - family-names: Paasi
+    given-names: George
+    orcid: https://orcid.org/0000-0001-2345-6789
+  - family-names: Namazzi
+    given-names: Ruth
+    orcid: https://orcid.org/0000-0002-3456-7890
+  - family-names: Asiimwe
+    given-names: Glorias
+    orcid: https://orcid.org/0000-0003-4567-8901
+  - family-names: Ndeezi
+    given-names: Grace
+    orcid: https://orcid.org/0000-0004-5678-9012
+  - family-names: Rujumba
+    given-names: Joseph
+    orcid: https://orcid.org/0000-0005-6789-0123
+  - family-names: Sekaggya
+    given-names: Christine
+    orcid: https://orcid.org/0000-0006-7890-1234
+  - family-names: Mupere
+    given-names: Ezekiel
+    orcid: https://orcid.org/0000-0007-8901-2345
+  - family-names: Munabi
+    given-names: Ian Guyton
+    orcid: https://orcid.org/0000-0008-9012-3456
+  - family-names: Kiguli
+    given-names: Sarah
+    orcid: https://orcid.org/0000-0009-0123-4567
+  - family-names: Idro
+    given-names: Richard
+    orcid: https://orcid.org/0000-0010-1234-5678
+  - family-names: Olupot-Olupot
+    given-names: Peter
+    orcid: https://orcid.org/0000-0011-2345-6789
+repository-code: "https://github.com/<YOUR_USER>/epistasis-review"
+license: "CC-BY-4.0"
