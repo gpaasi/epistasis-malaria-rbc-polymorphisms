@@ -1,7 +1,11 @@
 # Epistasis in Malaria-Protective RBC Polymorphisms: A Systematic Review
 
-> **GitHub repository**: https://github.com/<YOUR_USER>/epistasis-review  
-> **Zenodo DOI**: 10.5281/zenodo.15689409  
+<!-- Project status badges -->
+[![Release](https://img.shields.io/github/v/release/gpaasi/epistasis-malaria-rbc-polymorphisms.svg)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/releases/latest)
+[![CI](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/actions/workflows/ci.yml/badge.svg)](https://github.com/gpaasi/epistasis-malaria-rbc-polymorphisms/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15825231.svg)](https://doi.org/10.5281/zenodo.15825231)
+[![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE.md)
+ 
 
 ---
 
